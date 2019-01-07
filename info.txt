@@ -1,0 +1,1 @@
+Baza typu MS SQL - [Zad6], dwie tabele ID oraz Queue. W tabeli ID umieszczane są dni tygodnia po któch odbywa się sortowanie i wyświetlanie danych z tabeli Queue.
